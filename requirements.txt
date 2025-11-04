@@ -1,0 +1,13 @@
+# Requirements for Python Quest
+# Python 3.10+
+
+# For running tests
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# For notebooks (optional, use Colab instead)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# For colored output (optional enhancement)
+colorama>=0.4.6
